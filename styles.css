@@ -103,9 +103,7 @@ h3 {
     height: 112.5%;
     width: 45%;
     margin: -40px;
-    padding: 0;
     position: absolute;
-    z-index: 0;
     border-top-left-radius: 30px;
     border-bottom-left-radius: 30px;
 }
